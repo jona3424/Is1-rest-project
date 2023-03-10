@@ -1,0 +1,11 @@
+com\mycompany\sistem3\resources\JavaEE8Resource.class
+Entities\Stavke.class
+com\mycompany\sistem3\JAXRSConfiguration.class
+Entities\ProizvodiUKorpi.class
+Entities\Korisnici.class
+Entities\Proizvodi.class
+Entities\Recenzije.class
+Entities\Korpe.class
+Entities\Narudzbine.class
+Entities\Transakcije.class
+com\mycompany\sistem3\resources\MajstorMajstor.class
