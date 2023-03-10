@@ -1,0 +1,9 @@
+Entities\Korpa.class
+Entities\ProizvodUKorpiPK.class
+Entities\Proizvod.class
+Entities\Kategorija.class
+com\mycompany\sistem2\resources\MajstorBob.class
+com\mycompany\sistem2\JAXRSConfiguration.class
+com\mycompany\sistem2\resources\JavaEE8Resource.class
+Entities\Korisnik.class
+Entities\ProizvodUKorpi.class
